@@ -1,0 +1,26 @@
+
+
+table{font-family: arial, sans-serif;
+       border-collapse: collapse;
+       width: 100%;
+ 
+  }
+  margin:0;
+	padding:0;
+	width:100%;
+	color:#cccccc;
+	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	background:#555 url(../IMAGES/new.gif) repeat-x left top;}
+  td, th{  border: 1px solid #dddddd;
+  	       text-align: left;
+  	       padding: 8px;
+        }
+tr:nth-child(oven) {background-color: lime;}
+
+img{  width: 300px;
+
+      height: 300px
+
+}
+h1, h2, p{color: red;}
+
